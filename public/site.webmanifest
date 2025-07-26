@@ -1,0 +1,21 @@
+{
+  "name": "Apex Auto Detailers",
+  "short_name": "Apex Auto",
+  "description": "Professional mobile car detailing across the Sunshine Coast",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#173248",
+  "theme_color": "#F04E3B",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
