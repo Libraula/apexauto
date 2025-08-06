@@ -48,7 +48,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-red-primary/20 to-accent-gold/20 rounded-3xl blur-3xl"></div>
               <Image
-                src="/placeholder.svg?height=600&width=800"
+                src="/detail1.jpg?height=600&width=800"
                 alt="Premium car detailing"
                 width={800}
                 height={600}
@@ -162,7 +162,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-red-primary/20 to-accent-gold/20 rounded-3xl blur-3xl"></div>
               <Image
-                src="/placeholder.svg?height=500&width=600"
+                src="/detail2.jpg?height=500&width=600"
                 alt="Professional detailing team"
                 width={600}
                 height={500}
